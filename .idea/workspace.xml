@@ -32,7 +32,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2e993219-da5c-4d66-b491-9d1815c878a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +56,15 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
@@ -98,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596225110276</updated>
       <workItem from="1596225111911" duration="193000" />
-      <workItem from="1596789558479" duration="353000" />
+      <workItem from="1596789558479" duration="1240000" />
     </task>
     <servers />
   </component>
@@ -118,25 +123,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1596789941083">
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1596789954197">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596789941083" />
-    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1596789941083">
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596789954197" />
+    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1596789954196">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596789941083" />
-    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1596789941082">
+    <state width="1750" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596789954196" />
+    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1596789954196">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596789941082" />
-    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1596789941083">
+    <state width="1750" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596789954196" />
+    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1596789954197">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596789941083" />
-    <state x="397" y="210" key="SettingsEditor" timestamp="1596789859848">
+    <state width="1750" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596789954197" />
+    <state x="397" y="210" key="SettingsEditor" timestamp="1596790235182">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1596789859848" />
+    <state x="397" y="210" key="SettingsEditor/0.23.1792.1097@0.23.1792.1097" timestamp="1596790235182" />
   </component>
 </project>

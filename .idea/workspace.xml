@@ -57,6 +57,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -97,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596225110276</updated>
       <workItem from="1596225111911" duration="193000" />
-      <workItem from="1596789558479" duration="265000" />
+      <workItem from="1596789558479" duration="353000" />
     </task>
     <servers />
   </component>
@@ -117,22 +118,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1596789803995">
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom" timestamp="1596789941083">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596789803995" />
-    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1596789803993">
+    <state width="1750" height="303" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1596789941083" />
+    <state width="1750" height="303" key="GridCell.Tab.0.center" timestamp="1596789941083">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596789803993" />
-    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1596789803992">
+    <state width="1750" height="303" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1596789941083" />
+    <state width="1750" height="303" key="GridCell.Tab.0.left" timestamp="1596789941082">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596789803992" />
-    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1596789803994">
+    <state width="1750" height="303" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1596789941082" />
+    <state width="1750" height="303" key="GridCell.Tab.0.right" timestamp="1596789941083">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
-    <state width="1750" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596789803994" />
+    <state width="1750" height="303" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1596789941083" />
     <state x="397" y="210" key="SettingsEditor" timestamp="1596789859848">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>

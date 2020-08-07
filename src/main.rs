@@ -6,15 +6,11 @@ fn main() {
 
     insertion_sort(&mut test);
 
-    for x in &test {
-        print!("{} ", x);
-    }
+    print_array(&test);
 
     insertion_sort_reversed(&mut test);
-    println!();
-    for x in &test {
-        print!("{} ", x);
-    }
+
+    print_array(&test);
 }
 
 fn insertion_sort(A: &mut [i32]) {
@@ -38,5 +34,13 @@ fn insertion_sort_reversed(A: &mut [i32]) {
             i = i - 1;
         }
         A[(i+1) as usize] = key;
+    }
+}
+
+fn print_array(A: &[i32]) {
+    println!();
+
+    for x in A {
+        print!("{} ", x);
     }
 }
